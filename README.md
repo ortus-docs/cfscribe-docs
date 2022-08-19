@@ -4,7 +4,7 @@ description: CFScribe is a.....
 
 # Introduction
 
-CFScribe is a ....
+CFScribe is an extension of LogBox which allows for more finetuned and sophisticated routing of errors based on a wide variety of factors including environment, presence of http headers, Coldbox variables, System and Env variables, UDFs and more.&#x20;
 
 
 
