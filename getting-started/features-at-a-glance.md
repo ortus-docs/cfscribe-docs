@@ -12,5 +12,5 @@ description: >-
   * It can be used as a part of Logbox directly. This is helpful when implementing cfScribe into an existing code base which already uses LogBox
 * **Multiple Appenders**
 * **Complex Routing** - cfScribe allows an almost infinite level of routing based on a wide variety of criteria including environment, environment variables, severity (fatal, error, warn, info, debug), Coldbox Settings, Module Settings, presence or value of HTTP headers, UDF.&#x20;
-* Error Filtering - This controls what information from the error is displayed when the error is output. This includes the keys from the error struct, the keys in the Tag Context section of the error, the number of lines in the TagContext and more.&#x20;
+* **Error Filtering** - This controls what information from the error is displayed when the error is output. This includes the keys from the error struct, the keys in the Tag Context section of the error, the number of lines in the TagContext and more.&#x20;
 
