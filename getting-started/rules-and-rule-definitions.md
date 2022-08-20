@@ -30,7 +30,7 @@ cfScribe would send the log to the "console" and "sentry" appenders.
 
 CFScribe will continue to evaluate the definitions and rules until it gets to the end of the rule definitions with a few key points:
 
-* If it comes to an array in the rules structure, it will assume that the contents are appenders and send the log to those endpoints and then continue to evaluate the rule definitions.&#x20;
+* If it comes to an array in the rules structure, it will assume that the contents are appenders and send the log to those end points and then continue to evaluate the rule definitions.&#x20;
 * If there is no node for a given rule definition, it will be ignored. This means that there is no need to create "empty" nodes in order to prevent an error. See the example below
 
 Rule Definitions:
