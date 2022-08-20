@@ -1,8 +1,8 @@
 # Pusher
 
-The Pusher appender connects cfScribe to the [Pusher ](https://pusher.com/)service. it requires a pusher account.&#x20;
+The Pusher appender connects cfScribe to the [Pusher ](https://pusher.com/)service. It requires a pusher account.&#x20;
 
-
+****
 
 **Configuration**
 
