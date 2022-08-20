@@ -31,11 +31,11 @@ appenders : {
 ],
 rules : { 
     "true" : {
-      "fatal" : [ "console", "screenAbort" ],
-      "error" : [ "console", "screenAbort" ],
-      "warn"  : [ "console" ],
-      "info"  : [ "console" ],
-      "debug" : [ "console" ] 
+      "fatal" : [ "scribeConsole", "screenAbort" ],
+      "error" : [ "scribeConsole", "screenAbort" ],
+      "warn"  : [ "scribeConsole" ],
+      "info"  : [ "scribeConsole" ],
+      "debug" : [ "scribeConsole" ] 
     }
 }
 ```

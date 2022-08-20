@@ -8,6 +8,6 @@ Note: Depending on the client and and architecture of your app, this might not d
 
 ```
 rules : { 
-    "production" : [ "console", "screenDump" ]
+    "production" : [ "scribeConsole", "screenDump" ]
 }
 ```

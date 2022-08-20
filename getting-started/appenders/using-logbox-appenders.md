@@ -19,7 +19,7 @@ logbox : {
 }
 ```
 
-
+The names of LogBox Appenders can be found in the /coldbox/system/logging/appenders folder and correspond to the file names. Documentation can be found at [https://logbox.ortusbooks.com/usage/appender-properties](https://logbox.ortusbooks.com/usage/appender-properties)
 
 **Usage**
 
