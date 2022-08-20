@@ -10,8 +10,10 @@
 
 * [Features at a Glance](getting-started/features-at-a-glance.md)
 * [Appenders](getting-started/appenders/README.md)
-  * [ScreenAbort](getting-started/appenders/screenabort.md)
   * [Pusher](getting-started/appenders/pusher.md)
+  * [ScreenAbort](getting-started/appenders/screenabort.md)
+  * [Sentry](getting-started/appenders/sentry.md)
+  * [Using LogBox Appenders](getting-started/appenders/using-logbox-appenders.md)
 * [Rules and Rule Definitions](getting-started/rules-and-rule-definitions.md)
 
 ## Using As A Logbox Appender
