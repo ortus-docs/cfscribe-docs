@@ -17,13 +17,14 @@
   * [Using LogBox Appenders](getting-started/appenders/using-logbox-appenders.md)
 * [Rules and Rule Definitions](getting-started/rules-and-rule-definitions.md)
 
+## Using as a ColdBox Module
+
+* [Installation](using-as-a-coldbox-module/installation.md)
+* [Configuration](using-as-a-coldbox-module/configuration.md)
+
 ## Using As A Logbox Appender
 
 * [Page 2](using-as-a-logbox-appender/page-2.md)
-
-## Using as a ColdBox Module
-
-* [Page 4](using-as-a-coldbox-module/page-4.md)
 
 ## Using as a Stand Alone Product
 
