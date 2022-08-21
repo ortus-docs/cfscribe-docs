@@ -9,13 +9,14 @@
 ## Getting Started
 
 * [Features at a Glance](getting-started/features-at-a-glance.md)
+* [Configuration](getting-started/configuration.md)
+* [Rules and Rule Definitions](getting-started/rules-and-rule-definitions.md)
 * [Appenders](getting-started/appenders/README.md)
   * [Pusher](getting-started/appenders/pusher.md)
   * [ScreenAbort](getting-started/appenders/screenabort.md)
   * [ScreenDump](getting-started/appenders/screendump.md)
   * [Sentry](getting-started/appenders/sentry.md)
   * [Using LogBox Appenders](getting-started/appenders/using-logbox-appenders.md)
-* [Rules and Rule Definitions](getting-started/rules-and-rule-definitions.md)
 
 ## Using as a ColdBox Module
 
