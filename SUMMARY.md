@@ -19,7 +19,7 @@
 
 ## Using as a ColdBox Module
 
-* [Installation](using-as-a-coldbox-module/installation.md)
+* [Installation](using-as-a-coldbox-module/page-4.md)
 * [Configuration](using-as-a-coldbox-module/configuration.md)
 
 ## Using As A Logbox Appender
