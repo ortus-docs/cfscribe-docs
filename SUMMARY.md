@@ -16,8 +16,9 @@
   * [ScreenAbort](getting-started/appenders/screenabort.md)
   * [ScreenDump](getting-started/appenders/screendump.md)
   * [Sentry](getting-started/appenders/sentry.md)
-  * [Using LogBox Appenders](getting-started/appenders/using-logbox-appenders.md)
   * [ScribeConsole](getting-started/appenders/scribeconsole.md)
+  * [Toaster](getting-started/appenders/toaster.md)
+  * [Using LogBox Appenders](getting-started/appenders/using-logbox-appenders.md)
 
 ## Using as a ColdBox Module
 
