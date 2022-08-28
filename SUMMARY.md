@@ -31,4 +31,4 @@
 
 ## Using as a Stand Alone Product
 
-* [Page 5](using-as-a-stand-alone-product/page-5.md)
+* [Creation](using-as-a-stand-alone-product/creation.md)

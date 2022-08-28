@@ -56,3 +56,21 @@ Rules:
 ```
 
 &#x20;In this scenario, cfScribe first checks for the existence of the header "myHeader" then what the environment is. If the header is present, it will send the error to the screen no matter what. If the header is not present, it will then route according to the environment.
+
+
+
+**Built In Rule Definitions**
+
+`env:varname` - is the equivalent of  `createObject( "java", "java.lang.System" ).getEnv()[varname]`
+
+`coldbox : varname` - a key from the ColdBox variables
+
+`config:varname` - a key from the ColdBox config variables
+
+`moduleConfig:varname@modname` - returns the `varname` property from the `modulename` module
+
+`header:headerName` - returns the value from the `headername` header
+
+`headerTrueFalse:headerName` - returns whether the header exists or not. Note: a blank header value will return `false`
+
+`severity:severity` - Returns the value of the submitted severity value.&#x20;
