@@ -13,13 +13,13 @@ _**Rule Definitions** _ are contained in an array and tell cfScribe what the cri
 For example, if our Rule Definitions are as follows:&#x20;
 
 ```
-// [ "env:environment"]
+[ "env:environment"]
 ```
 
 that would indicate that first cfScribe would evaluate the environmental variable "environment", which would be set in the .env file, and use that to extract nodes from the rules structure. If the environment is "production" and the corresponding Rules structure is:&#x20;
 
 ```
-// { 
+{ 
     "production" : [ "console", "sentry" ],
     "development" : [ "screen" ], 
     "testing" : [ "screen" ] 
